@@ -31,7 +31,7 @@ $(function () {
 			TEAM SECTION
 	******************************/
 	$(".team-members").owlCarousel({
-		items:2,
+		items:1,
 		autoplay: true,
 		smartSpeed: 700,
 		loop: true,
