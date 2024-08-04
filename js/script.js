@@ -93,11 +93,4 @@ $(function () {
 			scrollTop: $(section).offset().top - 69,
 		},1250, "easeInOutExpo");
 	});
-	$(window).scroll(function() {
-		var scroll = $(window).scrollTop();
-		$('.home-cover').css({
-			'background-position': 'center ' + (scroll * 0.5) + 'px'
-		});
-	});
-	
 });
