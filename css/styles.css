@@ -305,9 +305,10 @@ h4.team-member-designation{
 	padding-top: 5px;
 	font-weight: 700;
 }
-/* .img-team{
-	margin-left: 350px;
-} */
+.img-circle{
+	margin: auto;
+	border-radius: 30%;
+}
 
 /**************************************************************************************
                             SOCIAL LIST SECTION
