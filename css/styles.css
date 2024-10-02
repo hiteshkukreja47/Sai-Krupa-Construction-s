@@ -308,6 +308,7 @@ h4.team-member-designation{
 .img-circle{
 	margin: auto;
 	border-radius: 30%;
+	height: 300px;
 }
 
 /**************************************************************************************
