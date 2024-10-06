@@ -553,9 +553,10 @@ form .form-control{
 ****************************************************************************************/
 
 .navbar{
-	/* padding: 10px 0; */
+	padding: 10px 0;
 	transition: all 0.5s ease-in-out;
 	border: none;
+	
 }
 
 .wg-top-nav{
