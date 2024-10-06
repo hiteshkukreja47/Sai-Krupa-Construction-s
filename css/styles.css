@@ -117,11 +117,12 @@ p{
 
 .home-cover h2{
     color:#fff;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
     margin: 30px;
     text-transform: uppercase;
     text-align: left;
+	
 }
 
 .home-btn{
@@ -284,6 +285,7 @@ p{
 
 .team-member{
 	margin: 0 15px;
+	height: 600px;
 }
 
 .team-member-info{
@@ -551,7 +553,7 @@ form .form-control{
 ****************************************************************************************/
 
 .navbar{
-	padding: 10px 0;
+	/* padding: 10px 0; */
 	transition: all 0.5s ease-in-out;
 	border: none;
 }
@@ -610,10 +612,8 @@ form .form-control{
 }
 
 .imgskc{
-    margin: 22px;
-    /* padding: 20px; */
-    height: 40px;
-    width: 40px;
+	height: 40px;
+	width: 150px;
 }
 .skcp{
     padding-left: 50px;
