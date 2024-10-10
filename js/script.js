@@ -73,8 +73,8 @@ $(function () {
     time: 2000,
 	});
 	
-	$(window).click(function(){
-		if($(this).scrollTop()<1){
+	$(window).scroll(function(){
+		if($(this).scrollTop()>1){
 			$("nav").addClass("wg-top-nav");
 			$(".btn-back-to-top").fadeIn();
 		}else{
