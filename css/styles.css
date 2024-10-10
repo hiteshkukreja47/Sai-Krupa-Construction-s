@@ -121,7 +121,7 @@ p{
     font-weight: bold;
     margin: 30px;
     text-transform: uppercase;
-    text-align: left;
+    text-align:left;
 	
 }
 
@@ -129,6 +129,7 @@ p{
     text-align: left;
     margin-left: 30px;
 }
+
 
 
 /**************************************************************************************
@@ -285,7 +286,7 @@ p{
 
 .team-member{
 	margin: 0 15px;
-	height: 600px;
+	
 }
 
 .team-member-info{
@@ -605,6 +606,7 @@ form .form-control{
 
 .navbar-collapse{
 	max-height: none!important;
+	float: right;
 }
 
 .navbar ul.navbar-nav>li.active>a{
